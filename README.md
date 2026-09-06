@@ -1,2 +1,2 @@
 ### PixelOS Seventeen - bangkk (UNOFFICIAL)
-[banner](banner.png)
+![banner](banner.png)
